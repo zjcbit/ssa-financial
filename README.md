@@ -6,6 +6,10 @@ Static bilingual corporate website for GitHub Pages.
 
 `www.ssa-financial.goodidea-ai.com`
 
+## Contact
+
+`info@ssa-financial.com`
+
 ## Public Company Facts Used
 
 - Company name: SSA Financial Advisors LTD.
